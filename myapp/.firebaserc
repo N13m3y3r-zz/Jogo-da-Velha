@@ -6,6 +6,13 @@
           "fir-demo-project"
         ]
       }
+    },
+    "instafire-app-8d29d": {
+      "hosting": {
+        "myapp": [
+          "instafire-app-8d29d"
+        ]
+      }
     }
   },
   "projects": {
